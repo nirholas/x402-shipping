@@ -1,0 +1,19 @@
+{
+  "name": "x402-shipping",
+  "version": "0.1.0",
+  "description": "Rate shopping and label generation through Shippo or EasyPost, paid per call over x402, label returned in the response.",
+  "author": {
+    "name": "nirholas"
+  },
+  "repository": "https://github.com/nirholas/x402-shipping",
+  "homepage": "https://nirholas.github.io/x402-shipping/",
+  "license": "Apache-2.0",
+  "keywords": [
+    "x402",
+    "shipping",
+    "shippo",
+    "easypost",
+    "labels",
+    "ai-agents"
+  ]
+}
